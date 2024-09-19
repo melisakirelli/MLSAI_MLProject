@@ -1,4 +1,4 @@
-# MLSAI_MLProject
+# RETAIL TRANSACTIONS PROJECT
 
 # PROJENİN AMACI:
   Perakende satış işlemleri verilerini kullanarak hem gözetimli hem de gözetimsiz öğrenme tekniklerini uygulamaktır. Bu bağlamda, gözetimli öğrenme ile müşteri davranışlarını ve satın alma eğilimlerini tahmin edecek modeller geliştirilecek, gözetimsiz öğrenme ile ise müşterilerin benzerliklerine göre segmente edilmesi sağlanacaktır.
@@ -37,3 +37,6 @@ Gözetimsiz Öğrenme için: "Total_Cost" ve "Total_Items" gibi sayısal sütunl
 Gözetimli Öğrenme için: En iyi performansı veren algoritma seçildi ve seçilen algoritmanın değerlendirilmesi yapıldı. Bu projede en iyi performansı veren regresyon modelinin Doğrusal Regresyon olduğuna karar verilmiştir. Değerlendirme sürecinde bu projede "Ortalama Karesel Hata(Mean Squared Error)", "R^2 score" kullanılmıştır. Buna ek olarak modelin nasıl tahmin yaptığını tam anlamak için ek analizler yapmak faydalı olabileceğinden; tahmin ve gerçek değerlerin karşılaştırılması yapıldı, hata analizini yapmak için tahmin edilen değerlerle gerçek değerler arasındaki farkları incelendi ve modelin genel performansını doğrulamak için Cross-Validation yapıldı.
 
 Gözetimsiz Öğrenme için:  K-means algoritmasıyla müşteri segmentasyonu yapılması daha uygun görüldü.
+
+# KAGGLE NOTEBOOK: 
+https://www.kaggle.com/code/melisakirelli/mlsai-mlproject
